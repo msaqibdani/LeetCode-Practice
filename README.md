@@ -12,3 +12,9 @@
 4. [LC 476 Number Complement](https://leetcode.com/problems/number-complement/) - [Solution](./LC476_NumberComplement.py)
 
 5. [LC 387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](./LC387_FirstUniqueCharacter.py)
+
+6. [LC 83 Ransom Note](https://leetcode.com/problems/ransom-note/) - [Solution](./LC383_RansomNote.py)
+
+7. [LC 278 First Bad Version](https://leetcode.com/problems/first-bad-version/) - [Solution](./LC278_FirstBadVersion.py)
+
+8. [LC169 Majority Element](https://leetcode.com/problems/majority-element/solution/) - [Solution](./LC169_MajorityElement.py)
