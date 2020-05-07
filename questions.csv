@@ -3,7 +3,7 @@ Search in a Rotated Sorted Array,LC 33,https://tinyurl.com/searchInARotatedArray
 Majority Element,LC 169,https://tinyurl.com/majorityElement,hashmaps/dictionary linear-search frequency-counter
 First Bad Version,LC 278,https://tinyurl.com/firstBadVersion,binary-search
 Ransom Note,LC 383,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC383_RansomNote.py,hashmaps/dictionaries linear-search frequency-counter
-First Unique Character in String,LC 387,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC387_FirstUniqueCharacter.py,orderedDictionary hashmaps/dictionaries
+First Unique Character in String,LC 387,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC387_FirstUniqueCharacter.py,strings orderedDictionary hashmaps/dictionaries
 Number Complement,LC 476,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC476_NumberComplement.py,bit-manipulation
-Jewels and Stones,LC 771,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC771_JewelsAndStones.py,string frequency-counter dictionaries/hashmaps
+Jewels and Stones,LC 771,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC771_JewelsAndStones.py,strings frequency-counter dictionaries/hashmaps
 Cousins in Binary Tree,LC 993,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC993_CousinsInABinaryTree.py,binary-trees nodes breadth-first-search (bfs)
