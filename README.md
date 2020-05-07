@@ -9,7 +9,7 @@
 
 3. [LC 771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - [Solution](./LC771_JewelsAndStones.py)
 
-4. [LC 476 Number Complement](https://leetcode.com/problems/number-complement/) - [Solution](./LC476_NumberComplement.py)
+4. [LC 476 Number Complement](https://leetcode.com/problems/number-complement/) - [Solution](./LC476_Number Complement.py)
 
 5. [LC 387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](./LC387_FirstUniqueCharacter.py)
 
