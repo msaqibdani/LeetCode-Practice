@@ -9,3 +9,4 @@ Jewels and Stones,LC 771,https://github.com/msaqibdani/LeetCode-Practice/blob/ma
 Cousins in Binary Tree,LC 993,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC993_CousinsInABinaryTree.py,binary-trees nodes breadth-first-search (bfs)
 Permutations,LC 46,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC46_Permutations.py,backtracking recursion permutation dfs
 Subsets,LC 78,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC78_Subsets.py,backtracking recursion powerset dfs
+Check if it's a straight line,LC 1232,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1232_CheckIfStraightLine.py,math gradient zero-error
