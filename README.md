@@ -18,3 +18,7 @@
 7. [LC 278 First Bad Version](https://leetcode.com/problems/first-bad-version/) - [Solution](./LC278_FirstBadVersion.py)
 
 8. [LC169 Majority Element](https://leetcode.com/problems/majority-element/solution/) - [Solution](./LC169_MajorityElement.py)
+
+9. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
+
+10. [LC 78 Subsets](https://leetcode.com/problems/subsets/) - [Solution](./LC78_Subsets.py)
