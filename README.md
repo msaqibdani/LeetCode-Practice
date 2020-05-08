@@ -22,3 +22,5 @@
 9. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
 
 10. [LC 78 Subsets](https://leetcode.com/problems/subsets/) - [Solution](./LC78_Subsets.py)
+
+11. [LC 1232 Check If It Is A Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [Solution](./LC1232_CheckIfStraightLine.py)
