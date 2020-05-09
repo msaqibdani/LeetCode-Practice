@@ -10,3 +10,4 @@ Cousins in Binary Tree,LC 993,https://github.com/msaqibdani/LeetCode-Practice/bl
 Permutations,LC 46,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC46_Permutations.py,backtracking recursion permutation dfs
 Subsets,LC 78,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC78_Subsets.py,backtracking recursion powerset dfs
 Valid Perfect Square,LC 367,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC367_ValidPerfectSquare.py,math
+Check if it's a straight line,LC 1232,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1232_CheckIfStraightLine.py,math gradient zero-error
