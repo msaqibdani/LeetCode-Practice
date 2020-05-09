@@ -22,3 +22,5 @@
 9. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
 
 10. [LC 78 Subsets](https://leetcode.com/problems/subsets/) - [Solution](./LC78_Subsets.py)
+
+11. [LC 367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [Solution](./LC367_ValidPerfectSquare)
