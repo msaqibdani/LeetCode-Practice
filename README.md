@@ -23,8 +23,6 @@
 
 10. [LC 78 Subsets](https://leetcode.com/problems/subsets/) - [Solution](./LC78_Subsets.py)
 
-<<<<<<< HEAD
 11. [LC 367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [Solution](./LC367_ValidPerfectSquare)
-=======
-11. [LC 1232 Check If It Is A Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [Solution](./LC1232_CheckIfStraightLine.py)
->>>>>>> a5ea3bc9c89f03ae8489675cc4f704033f5b1aaf
+
+12. [LC 1232 Check If It Is A Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [Solution](./LC1232_CheckIfStraightLine.py)
