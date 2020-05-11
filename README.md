@@ -1,5 +1,7 @@
 # LeetCode-Practice
+#### Python solutions to different LeetCode problems
 
+# Search By Tags or ID
 #### Open "questions.csv" to search questions by Tags (Tags: binary-search, breadth-first-search, depth-first-search, ...)
 ### Questions List
 
