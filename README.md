@@ -26,3 +26,7 @@
 11. [LC 367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [Solution](./LC367_ValidPerfectSquare)
 
 12. [LC 1232 Check If It Is A Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [Solution](./LC1232_CheckIfStraightLine.py)
+
+13. [LC 997 Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) - [Solution](./LC997_FindTheTownJudge)
+
+14. [LC 773 Flood Fill](https://leetcode.com/problems/flood-fill/) - [Solution](./LC733_FloodFill)
