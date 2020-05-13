@@ -13,3 +13,5 @@ Valid Perfect Square,LC 367,https://github.com/msaqibdani/LeetCode-Practice/blob
 Check if it's a straight line,LC 1232,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1232_CheckIfStraightLine.py,math gradient zero-error
 Find The Town Judge,LC 997,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC997_FindTheTownJudge.py,graph-creation defaultdict sets inedges outedges
 Flood Fill,LC 733,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC733_FloodFill.py,dfs bfs 2D-Matrix
+Validate Binary Search Tree,LC 98,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC98_ValidateBinarySearchTree.py,recursion binary-search-tree dfs 
+Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC_SingleElementInSortedArray.py,binary-search sorting 

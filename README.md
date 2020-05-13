@@ -35,3 +35,5 @@
 13. [LC 997 Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) - [Solution](./LC997_FindTheTownJudge)
 
 14. [LC 773 Flood Fill](https://leetcode.com/problems/flood-fill/) - [Solution](./LC733_FloodFill)
+
+15. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](./LC98_ValidateBinarySearchTree)
