@@ -14,4 +14,5 @@ Check if it's a straight line,LC 1232,https://github.com/msaqibdani/LeetCode-Pra
 Find The Town Judge,LC 997,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC997_FindTheTownJudge.py,graph-creation defaultdict sets inedges outedges
 Flood Fill,LC 733,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC733_FloodFill.py,dfs bfs 2D-Matrix
 Validate Binary Search Tree,LC 98,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC98_ValidateBinarySearchTree.py,recursion binary-search-tree dfs 
-Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC_SingleElementInSortedArray.py,binary-search sorting 
+Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC540_SingleElementInSortedArray.py,binary-search sorting 
+Remove K Digits,LC 402,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC402_RemoveKDigits.py,stack monotonic-increasing sequence greedy backtracking dynamic-programming recursion

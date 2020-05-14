@@ -37,3 +37,7 @@
 14. [LC 773 Flood Fill](https://leetcode.com/problems/flood-fill/) - [Solution](./LC733_FloodFill)
 
 15. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](./LC98_ValidateBinarySearchTree)
+
+16. [LC 540 Single Element In Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) - [Solution](./LC_SingleElementInSortedArray.py)
+
+17. [LC 402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/) - [Solution](./LC402_RemoveKDigits.py)
