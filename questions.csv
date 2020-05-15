@@ -16,3 +16,4 @@ Flood Fill,LC 733,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC
 Validate Binary Search Tree,LC 98,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC98_ValidateBinarySearchTree.py,recursion binary-search-tree dfs 
 Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC540_SingleElementInSortedArray.py,binary-search sorting 
 Remove K Digits,LC 402,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC402_RemoveKDigits.py,stack monotonic-increasing sequence greedy backtracking dynamic-programming recursion
+Implement Trie,LC 208,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC208_ImplementTrie.py,hashmap/dictionary trie
