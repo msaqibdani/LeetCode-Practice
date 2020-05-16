@@ -18,3 +18,4 @@ Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Pra
 Remove K Digits,LC 402,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC402_RemoveKDigits.py,stack monotonic-increasing sequence greedy backtracking dynamic-programming recursion
 Implement Trie,LC 208,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC208_ImplementTrie.py,hashmap/dictionary trie
 Maximum Subarray Circular,LC 918,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC918_MaximumSubArrayCircular.py,dynamic-programming kadane-algorithm
+Odd Even Linked List,LC 328,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC328_OddEvenLinkedList.py,linked-lists pointers

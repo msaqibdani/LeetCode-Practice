@@ -44,4 +44,7 @@
 
 18. [LC 208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) - [Solution](./LC208_ImplementTrie.py)
 
-19. [LC 918 MaximumSubArrayCircular.py](https://leetcode.com/problems/maximum-sum-circular-subarray/) - [Solution](./LC918_MaximumSubArrayCircular.py)
+19. [LC 918 MaximumSubArrayCircular](https://leetcode.com/problems/maximum-sum-circular-subarray/) - [Solution](./LC918_MaximumSubArrayCircular.py)
+
+
+20. [LC 328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) - [Solution](./LC328_OddEvenLinkedList.py)
