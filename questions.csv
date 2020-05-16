@@ -19,3 +19,5 @@ Remove K Digits,LC 402,https://github.com/msaqibdani/LeetCode-Practice/blob/mast
 Implement Trie,LC 208,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC208_ImplementTrie.py,hashmap/dictionary trie
 Maximum Subarray Circular,LC 918,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC918_MaximumSubArrayCircular.py,dynamic-programming kadane-algorithm
 Odd Even Linked List,LC 328,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC328_OddEvenLinkedList.py,linked-lists pointers
+Remove Nth Node From End of List,LC 19,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC19_RemoveNthNodeFromEndOfList.py,linked-list
+Palindromic Substrings,LC 647,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC647_PalindromicSubstrings.py,strings palindrome dynamic-programming

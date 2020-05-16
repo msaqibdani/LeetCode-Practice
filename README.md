@@ -48,3 +48,7 @@
 
 
 20. [LC 328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) - [Solution](./LC328_OddEvenLinkedList.py)
+
+21. [LC 19 Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](./LC19_RemoveNthNodeFromEndOfList.py)
+
+22. [LC 647 Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/) - [Solution](./LC647_PalindromicSubstrings.py)
