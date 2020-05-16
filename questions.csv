@@ -17,3 +17,4 @@ Validate Binary Search Tree,LC 98,https://github.com/msaqibdani/LeetCode-Practic
 Single Element In Sorted Array,LC 540,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC540_SingleElementInSortedArray.py,binary-search sorting 
 Remove K Digits,LC 402,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC402_RemoveKDigits.py,stack monotonic-increasing sequence greedy backtracking dynamic-programming recursion
 Implement Trie,LC 208,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC208_ImplementTrie.py,hashmap/dictionary trie
+Maximum Subarray Circular,LC 918,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC918_MaximumSubArrayCircular.py,dynamic-programming kadane-algorithm
