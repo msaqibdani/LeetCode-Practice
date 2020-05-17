@@ -1,6 +1,5 @@
 def countSubstrings(self, s: str) -> int:
     
-    
     def expand(l, r):
         
         count = 0
