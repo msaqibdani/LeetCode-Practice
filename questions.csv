@@ -22,3 +22,5 @@ Odd Even Linked List,LC 328,https://github.com/msaqibdani/LeetCode-Practice/blob
 Remove Nth Node From End of List,LC 19,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC19_RemoveNthNodeFromEndOfList.py,linked-list
 Palindromic Substrings,LC 647,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC647_PalindromicSubstrings.py,strings palindrome dynamic-programming
 Find All Anagrams In A String,LC 438,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC438_FindAllAnagramsInAString.py,sliding-window hashmaps/dictionaries
+Permutation In String,LC 567,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC567_PermutationInString.py,sliding-window hashmaps/dictionaries
+Online Stock Span,LC 901,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC901_OnlineStockSpan.py,stacks

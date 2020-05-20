@@ -54,3 +54,7 @@
 22. [LC 647 Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/) - [Solution](./LC647_PalindromicSubstrings.py)
 
 23. [LC 438 Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) - [Solution](./LC438_FindAllAnagramsInAString.py)
+
+24. [LC 567 Permutation In String](https://leetcode.com/problems/permutation-in-string/) - [Solution](./LC_567PermutationInString.py)
+
+25. [LC 901 Online Stock Span](https://leetcode.com/problems/online-stock-span/) - [Solution](./LC901_OnlineStockSpan.py)
