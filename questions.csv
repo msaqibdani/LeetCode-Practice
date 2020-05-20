@@ -24,3 +24,4 @@ Palindromic Substrings,LC 647,https://github.com/msaqibdani/LeetCode-Practice/bl
 Find All Anagrams In A String,LC 438,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC438_FindAllAnagramsInAString.py,sliding-window hashmaps/dictionaries
 Permutation In String,LC 567,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC567_PermutationInString.py,sliding-window hashmaps/dictionaries
 Online Stock Span,LC 901,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC901_OnlineStockSpan.py,stacks
+Kth Smallest Element In A BST,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC230_KthSmallestElementInABST.py,binary-trees dfs 

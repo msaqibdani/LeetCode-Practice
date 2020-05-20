@@ -58,3 +58,5 @@
 24. [LC 567 Permutation In String](https://leetcode.com/problems/permutation-in-string/) - [Solution](./LC_567PermutationInString.py)
 
 25. [LC 901 Online Stock Span](https://leetcode.com/problems/online-stock-span/) - [Solution](./LC901_OnlineStockSpan.py)
+
+26. [LC 230 Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Solution](./LC230_KthSmallestElementInABST.py)
