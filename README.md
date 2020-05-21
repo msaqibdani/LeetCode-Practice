@@ -60,3 +60,5 @@
 25. [LC 901 Online Stock Span](https://leetcode.com/problems/online-stock-span/) - [Solution](./LC901_OnlineStockSpan.py)
 
 26. [LC 230 Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Solution](./LC230_KthSmallestElementInABST.py)
+
+27. [LC 1277 Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) - [Solution](./LC1277_CountSquareSubmatricesWithAllOnes.py)
