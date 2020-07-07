@@ -62,3 +62,5 @@
 26. [LC 230 Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [Solution](./LC230_KthSmallestElementInABST.py)
 
 27. [LC 1277 Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) - [Solution](./LC1277_CountSquareSubmatricesWithAllOnes.py)
+
+28. [LC 142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](./LC142_LinkedListCycleII.py)
