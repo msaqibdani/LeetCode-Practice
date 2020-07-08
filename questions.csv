@@ -24,7 +24,7 @@ Palindromic Substrings,LC 647,https://github.com/msaqibdani/LeetCode-Practice/bl
 Find All Anagrams In A String,LC 438,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC438_FindAllAnagramsInAString.py,sliding-window hashmaps/dictionaries
 Permutation In String,LC 567,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC567_PermutationInString.py,sliding-window hashmaps/dictionaries
 Online Stock Span,LC 901,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC901_OnlineStockSpan.py,stacks
-Kth Smallest Element In A BST,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC230_KthSmallestElementInABST.py,binary-trees dfs
+Kth Smallest Element In A BST,LC 230,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC230_KthSmallestElementInABST.py,binary-trees dfs
 Count Square Submatrices With All Ones,LC 1277,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1277_CountSquareSubmatricesWithAllOnes.py,dynamic-programming
 Linked List Cycle II,LC 142,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC142_LinkedListCycleII.py,linked-list
 Convert Sorted List to Binary Search Tree,LC 109,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC109_ConvertSortedListtoBinarySearchTree.py,linked-list binary-search-tree sorted-list
