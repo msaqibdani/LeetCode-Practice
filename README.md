@@ -66,3 +66,5 @@
 28. [LC 142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](./LC142_LinkedListCycleII.py)
 
 29. [LC 109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) - [Solution](./LC109_ConvertSortedListtoBinarySearchTree.py)
+
+30. [LC 91 Decode Ways](https://leetcode.com/problems/decode-ways/) - [Solution](./LC91_DecodeWays.py)
