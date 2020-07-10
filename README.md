@@ -72,3 +72,7 @@
 31. [LC 151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) - [Solution](./LC151_ReverseWordsInAString.py)
 
 32. [LC 377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) - [Solution](./LC377_CombinationSumIV.py)
+
+33. [LC 941 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) - [Solution](./LC941_ValidMountainArray.py)
+
+34. [LC 523](https://leetcode.com/problems/continuous-subarray-sum/) - [Solution](./LC523_ContinuosSubArraySum.py)
