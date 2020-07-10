@@ -75,4 +75,4 @@
 
 33. [LC 941 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) - [Solution](./LC941_ValidMountainArray.py)
 
-34. [LC 523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) - [Solution](./LC523_ContinuosSubArraySum.py)
+34. [LC 523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) - [Solution](LC523_ContinuousSubArraySum.py)
