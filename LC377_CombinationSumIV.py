@@ -15,7 +15,6 @@ class Solution:
             elif rem in dp:
                 return dp[rem]
                 
-            
             temp = 0
             for ele in nums:
                 

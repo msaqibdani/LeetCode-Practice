@@ -31,3 +31,5 @@ Convert Sorted List to Binary Search Tree,LC 109,https://github.com/msaqibdani/L
 Decode Ways,LC 91,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC91_DecodeWays.py,dynamic-programming recursion backtracking
 Reverse Words in a String,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC151_ReverseWordsInAString.py,strings 
 Combination Sum IV,LC 377,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC377_CombinationSumIV.py,dynamic-programming recursion backtracking
+Valid Mountain Array,LC 941,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC941_ValidMountainArray.py,
+Continuous Subarray Sum,LC 523,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC523_ContinuousSubArraySum.py,dynamic-programming running-sum
