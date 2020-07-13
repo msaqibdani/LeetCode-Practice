@@ -33,3 +33,4 @@ Reverse Words in a String,LC 151,https://github.com/msaqibdani/LeetCode-Practice
 Combination Sum IV,LC 377,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC377_CombinationSumIV.py,dynamic-programming recursion backtracking
 Valid Mountain Array,LC 941,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC941_ValidMountainArray.py,
 Continuous Subarray Sum,LC 523,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC523_ContinuousSubArraySum.py,dynamic-programming running-sum
+First Missing Positive,LC 41,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC41_FirstMissingPositive.py,arrays negative-conversions missing-elements-O(n)
