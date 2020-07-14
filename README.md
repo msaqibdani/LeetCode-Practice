@@ -28,17 +28,17 @@
 
 10. [LC 78 Subsets](https://leetcode.com/problems/subsets/) - [Solution](./LC78_Subsets.py)
 
-11. [LC 367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [Solution](./LC367_ValidPerfectSquare)
+11. [LC 367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [Solution](./LC367_ValidPerfectSquare.py)
 
 12. [LC 1232 Check If It Is A Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [Solution](./LC1232_CheckIfStraightLine.py)
 
-13. [LC 997 Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) - [Solution](./LC997_FindTheTownJudge)
+13. [LC 997 Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/) - [Solution](./LC997_FindTheTownJudge.py)
 
-14. [LC 773 Flood Fill](https://leetcode.com/problems/flood-fill/) - [Solution](./LC733_FloodFill)
+14. [LC 773 Flood Fill](https://leetcode.com/problems/flood-fill/) - [Solution](./LC733_FloodFill.py)
 
-15. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](./LC98_ValidateBinarySearchTree)
+15. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](./LC98_ValidateBinarySearchTree.py)
 
-16. [LC 540 Single Element In Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) - [Solution](./LC_SingleElementInSortedArray.py)
+16. [LC 540 Single Element In Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) - [Solution](./LC540_SingleElementInSortedArray.py)
 
 17. [LC 402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/) - [Solution](./LC402_RemoveKDigits.py)
 
@@ -78,3 +78,5 @@
 34. [LC 523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) - [Solution](./LC523_ContinuousSubArraySum.py)
 
 35. [LC 41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - [Solution](./LC41_FirstMissingPositive.py)
+
+36. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
