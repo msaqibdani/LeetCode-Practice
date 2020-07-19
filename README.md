@@ -80,3 +80,5 @@
 35. [LC 41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/) - [Solution](./LC41_FirstMissingPositive.py)
 
 36. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
+
+37. [LC 1048 Longest String Chain](https://leetcode.com/problems/longest-string-chain/) - [Solution](./LC1048_LongestStringChain.py)

@@ -35,3 +35,4 @@ Valid Mountain Array,LC 941,https://github.com/msaqibdani/LeetCode-Practice/blob
 Continuous Subarray Sum,LC 523,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC523_ContinuousSubArraySum.py,dynamic-programming running-sum
 First Missing Positive,LC 41,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC41_FirstMissingPositive.py,arrays negative-conversions missing-elements-O(n)
 Unique Paths,LC 62,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC62_UniquePaths.py,dynamic-programming dfs
+Longest String Chain,LC 1048,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1048_LongestStringChain.py,dp arrays
