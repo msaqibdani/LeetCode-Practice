@@ -84,3 +84,7 @@
 37. [LC 1048 Longest String Chain](https://leetcode.com/problems/longest-string-chain/) - [Solution](./LC1048_LongestStringChain.py)
 
 38. [LC 84 Largest Rectangle In A Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Solution](./LC84_LargestRectangleInAHistogram.py)
+
+39. [LC 581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [Solution](./LC581_ShortestUnSortedContinuousSubarray.py)
+
+40. [LC 84 Largest Rectangle In A Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Solution](LC84_LargestRectangleInAHistogram.py)

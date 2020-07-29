@@ -38,3 +38,4 @@ Unique Paths,LC 62,https://github.com/msaqibdani/LeetCode-Practice/blob/master/L
 Longest String Chain,LC 1048,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1048_LongestStringChain.py,dp arrays
 Largest Rectangle In A Histogram,LC 84,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC84_LargestRectangleInAHistogram.py,arrays stacks
 Subarray Sum Equals K,LC 560,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC84_LargestRectangleInAHistogram.py,hashmap continuous-array
+Shortest Unsorted Continuous Subarray,LC 581,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC581_ShortestUnSortedContinuousSubarray.py,monotonic stack
