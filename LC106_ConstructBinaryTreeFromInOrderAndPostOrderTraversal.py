@@ -26,8 +26,5 @@ def buildTree(inorder, postorder):
     
     return treeRoot
 
-
-
-  
   indexes = {key:value for value, key in enumerate(inorder)}
   return helper(0, len(inorder) - 1)
