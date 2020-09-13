@@ -39,3 +39,6 @@ Longest String Chain,LC 1048,https://github.com/msaqibdani/LeetCode-Practice/blo
 Largest Rectangle In A Histogram,LC 84,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC84_LargestRectangleInAHistogram.py,arrays stacks
 Subarray Sum Equals K,LC 560,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC84_LargestRectangleInAHistogram.py,hashmap continuous-array
 Shortest Unsorted Continuous Subarray,LC 581,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC581_ShortestUnSortedContinuousSubarray.py,monotonic stack
+Container With Most Water,LC 11,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC11_ContainerWithMostWater.py,two-pointers
+Minimum Number of Vertices To Reach All Nodes,LC 1557,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1557_MinimumNumberOfVerticesToReachAllNodes.py,graphs
+Remove Invalid Paranthesis,LC 301,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC301_RemoveInvalidParantheses.py,backtracking-dfs

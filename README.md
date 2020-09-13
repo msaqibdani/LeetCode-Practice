@@ -88,3 +88,9 @@
 39. [LC 581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [Solution](./LC581_ShortestUnSortedContinuousSubarray.py)
 
 40. [LC 84 Largest Rectangle In A Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - [Solution](LC84_LargestRectangleInAHistogram.py)
+
+41. [LC 11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [Solution](./LC11_ContainerWithMostWater.py)
+
+42. [LC 1557 Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - [Solution](./LC1557_MinimumNumberOfVerticesToReachAllNodes.py)
+
+43. [LC Remove Invalid Parantheses](https://leetcode.com/problems/remove-invalid-parentheses/) - [Solution](./LC301_RemoveInvalidParaentheses.py)
