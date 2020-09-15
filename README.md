@@ -93,4 +93,8 @@
 
 42. [LC 1557 Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - [Solution](./LC1557_MinimumNumberOfVerticesToReachAllNodes.py)
 
-43. [LC Remove Invalid Parantheses](https://leetcode.com/problems/remove-invalid-parentheses/) - [Solution](./LC301_RemoveInvalidParaentheses.py)
+43. [LC 301 Remove Invalid Parantheses](https://leetcode.com/problems/remove-invalid-parentheses/) - [Solution](./LC301_RemoveInvalidParaentheses.py)
+
+44. [LC 57 Insert Interval](https://leetcode.com/problems/insert-interval/) - [Solution](https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC57_InsertInterval.py)
+
+45. [LC 80 Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) - [Solution](https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC80_RemoveDuplicatesFromSortedArrayII.py)

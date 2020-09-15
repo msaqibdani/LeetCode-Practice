@@ -42,3 +42,5 @@ Shortest Unsorted Continuous Subarray,LC 581,https://github.com/msaqibdani/LeetC
 Container With Most Water,LC 11,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC11_ContainerWithMostWater.py,two-pointers
 Minimum Number of Vertices To Reach All Nodes,LC 1557,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC1557_MinimumNumberOfVerticesToReachAllNodes.py,graphs
 Remove Invalid Paranthesis,LC 301,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC301_RemoveInvalidParantheses.py,backtracking-dfs
+Insert Interval,LC 57,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC57_InsertInterval.py,intervals time arrays
+Remove Duplicates from Sorted Array II,LC 80,https://github.com/msaqibdani/LeetCode-Practice/blob/master/LC80_RemoveDuplicatesFromSortedArrayII.py,arrays
