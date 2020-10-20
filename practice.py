@@ -1,4 +1,45 @@
-import deque
+from collections import deque
+class MaxQueue():
+	def __init__(self):
+		q = deque()
+		max_q = deque()
+
+	def push(num):
+		if not q:
+			max_q.append(num)
+			q.append(num)
+
+		else:
+			while max_q[0] <= num:
+				max_q.popleft()
+
+
+		
+
+	def pop():
+		
+
+	def max_num():
+		return
+
+
+'''
+
+[9, 5, 7, 1]
+
+[9, 5, 7, 1]
+
+
+-> how to track the max. If I have two q's how would that help me? 
+
+'''
+
+
+
+
+
+
+
 
 def BFS(graph):
 	
